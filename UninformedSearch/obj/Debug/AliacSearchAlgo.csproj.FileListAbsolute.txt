@@ -1,0 +1,18 @@
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\bin\Debug\AliacSearchAlgo.exe
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.exe
+C:\Users\yanap\Downloads\Uninformed-Search-master\Uninformed-Search-master\obj\Debug\AliacSearchAlgo.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\bin\Debug\AliacSearchAlgo.exe
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.exe
+C:\Users\yanap\Documents\5. Code Project Files\c#\Paragoso_UninformedSearch\UninformedSearch\obj\Debug\AliacSearchAlgo.pdb
